@@ -8,8 +8,8 @@ const kontoChuck = {
 
 console.log(kontoChuck.bank, kontoChuck);
 
-let bonni = "100€";
-let Dispoerhöhung = 50;
+let bonni = "100,00 €";
+let Dispoerhöhung = "50,00 €";
 
 kontoChuck.bank = "Sparkasse Berlin West";
 
