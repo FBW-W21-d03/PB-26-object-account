@@ -2,7 +2,7 @@
 
 Chuck hat ein Bankkonto mit der IBAN DE01 2345 6789 0000 1111 2222 und der Bankleizahl ABCDEFGH123 bei der Bank Sparkasse Berlin Ost mit dem Kontostand 1000€ und einem Dispo in Höhe von 500€.
 
-## Aufgabenstellung - Teil 1
+## AufgabensAtellung - Teil 1
 Schreibe ein Objekt, in das du möglichst viele Informationen über Chuck's Bankkonto integrierst. Finde selber passende Namen.
 
 ## Aufgabenstellung - Teil 2
