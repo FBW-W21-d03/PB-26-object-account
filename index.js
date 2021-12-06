@@ -7,7 +7,7 @@ const Chuck = {
     DispoInHöhe:500,
 };
 Chuck.Bank ="Sparkasse Berlin West";
-Chuck.Kontostand = 1100;
-Chuck.DispoInHöhe = 550;
+Chuck.Kontostand = Chuck.Kontostand +100;
+Chuck.DispoInHöhe = Chuck.DispoInHöhe + 50;
 
 console.log(Chuck);
