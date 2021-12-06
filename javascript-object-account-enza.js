@@ -7,7 +7,7 @@ const chuckKonto = {
     blz: "ABCDEFGH123",
     bank: "Sparkasse Berlin Ost",
     haben:"€"+" "+haben+","+"00",
-    dispo: "€"+" "+500+","+"00",
+    dispo: "€"+" "+dispo+","+"00",
 };
 
 console.log("Kontodaten von Chuck: " , chuckKonto);
