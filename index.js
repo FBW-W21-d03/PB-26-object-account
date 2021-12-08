@@ -2,7 +2,7 @@
 const chuckAccount ={
     IBAN : "DE23456789000011112222",
     Bankleizahl : "ABCDEFGH123",
-    bank: "sparkasse Berlin ost",
+    Bank: "sparkasse Berlin ost",
     Kontostand: 1000,
     Dispo : 500,
 }
